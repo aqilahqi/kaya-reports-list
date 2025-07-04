@@ -4,7 +4,7 @@ Welcome! This is my submission for the **Kaya Frontend Engineer Assessment**.
 
 This app loads a list of reports. Click on any report to view its full details! It’s built with Vue 3, Quasar, and Pinia.
 
-🌐 **Live Demo:** [Netlify Deployment (coming soon!)](https://your-netlify-link-here)
+🌐 **Live Demo:** [Netlify](https://kaya-report-list.netlify.app/)
 
 ---
 
@@ -69,6 +69,3 @@ This app loads a list of reports. Click on any report to view its full details! 
 - Built with Quasar for a modern, responsive look and feel.
 
 ---
-
-**P.S.** Don’t forget to update the Netlify link above once you deploy!  
-Happy coding and have fun exploring!
