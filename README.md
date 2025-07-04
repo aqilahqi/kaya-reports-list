@@ -1,40 +1,74 @@
-# Quasar App (vue-quasar-project)
+# reports-list 🎵
 
-A Quasar Project
+Welcome! This is my submission for the **Kaya Frontend Engineer Assessment**.
 
-## Install the dependencies
-```bash
-yarn
-# or
-npm install
+This app loads a list of reports. Click on any report to view its full details! It’s built with Vue 3, Quasar, and Pinia.
+
+🌐 **Live Demo:** [Netlify Deployment (coming soon!)](https://your-netlify-link-here)
+
+---
+
+## 🚀 Tech Stack
+
+- **Vue 3**
+- **Quasar Framework**
+- **Pinia**
+
+---
+
+## 🛠️ Getting Started
+
+1. **Install dependencies**
+
+   ```sh
+   npm install
+   ```
+
+2. **Start the development server**
+
+   ```sh
+   npm run dev
+   ```
+
+3. **Build for production**
+
+   ```sh
+   npm run build
+   ```
+
+4. **Lint your code**
+   ```sh
+   npm run lint
+   ```
+
+---
+
+## 📁 Project Structure
+
+```
+.
+├── public/           # Static assets
+├── src/              # Source files
+│   ├── assets/       # Images and fonts
+│   ├── components/   # Vue components
+│   ├── layouts/      # Layout components
+│   ├── pages/        # Page components (list & full report)
+│   ├── router/       # Vue Router setup
+│   ├── stores/       # Pinia stores
+│   └── App.vue       # Root component
+├── package.json      # Project metadata and scripts
+└── ...
 ```
 
-### Start the app in development mode (hot-code reloading, error reporting, etc.)
-```bash
-quasar dev
-```
+---
 
+## 💡 Notes
 
-### Lint the files
-```bash
-yarn lint
-# or
-npm run lint
-```
+- Browse a list of reports and click to see the full story!
+- Like your favorite songs—they’ll be saved in your favorites list.
+- Built with Quasar for a modern, responsive look and feel.
 
+---
 
-### Format the files
-```bash
-yarn format
-# or
-npm run format
-```
-
-
-### Build the app for production
-```bash
-quasar build
-```
-
-### Customize the configuration
-See [Configuring quasar.config.js](https://v2.quasar.dev/quasar-cli-vite/quasar-config-js).
+**P.S.** Don’t forget to update the Netlify link above once you deploy!  
+Happy coding and have fun exploring!

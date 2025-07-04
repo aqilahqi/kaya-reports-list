@@ -1,0 +1,69 @@
+[
+  {
+    "id": "report-001",
+    "title": "Creative Efficiency Benchmark – Q1 2025",
+    "subtitle": "Your top performing creatives across Meta, TikTok, and YouTube.",
+    "backgroundImageUrl": "https://www.datocms-assets.com/147255/1740393244-home-main.webp",
+    "cta": "View Full Creative Breakdown · Q1 2025",
+    "path": "/client-reports-q1-creative",
+    "tag": "Performance Overview",
+    "theme": "Creative Benchmarking",
+    "datePublished": "05/04/2025",
+    "dateUpdated": "2025-04-06"
+  },
+  {
+    "id": "report-002",
+    "title": "Ad Spend vs. ROAS – Monthly Summary",
+    "subtitle": "Your ROAS trends by channel, over last 4 weeks.",
+    "backgroundImageUrl": "https://www.datocms-assets.com/147255/1740393244-home-budget.webp",
+    "cta": "",
+    "tag": "Performance Overview",
+    "theme": "Efficiency Trends",
+    "datePublished": "01/04/2025",
+    "dateUpdated": "2025-04-02"
+  },
+  {
+    "id": "report-003",
+    "title": "Audience performance breakdown for new LinkedIn placements.",
+    "backgroundImageUrl": "https://www.datocms-assets.com/147255/1737835464-6787c3f8b9df090c269b0d86_6787bfe2b53ed6e584610017_1694503975440-20-1.webp",
+    "cta": "See Audience Insights",
+    "tag": "Channel Insights",
+    "theme": "Audience Segments",
+    "datePublished": "03/04/2025",
+    "dateUpdated": "2025-04-04"
+  },
+  {
+    "id": "insight-report-020",
+    "title": "How Kaya’s Predictive Engine Flags Top Creatives Before They Peak Across TikTok, Meta, and More – Powered by COIN",
+    "subtitle": "This week’s predictive signal highlights and new flagged winners.",
+    "backgroundImageUrl": "https://www.datocms-assets.com/147255/1738686447-aiblockinterface-webp.webp",
+    "cta": "Explore Predictive Signals",
+    "path": "/client-reports-coin-2025",
+    "tag": "Competitor Intelligence",
+    "theme": "Predictive Insights",
+    "datePublished": "06/04/2025"
+  },
+  {
+    "id": "insight-report-027",
+    "title": "Top Performing Hooks – March 2025",
+    "subtitle": "Most effective first 3-second creative openings across all channels.",
+    "backgroundImageUrl": "https://www.datocms-assets.com/147255/1741578611-123335.webp",
+    "cta": "Download Creative Playbook",
+    "path": "/client-reports-hooks-march",
+    "theme": "Creative Hook",
+    "datePublished": "28/03/2025",
+    "dateUpdated": "2025-03-30"
+  },
+  {
+    "id": "report-013",
+    "title": "Kaya Performance Index – April Snapshot",
+    "subtitle": "Your blended performance benchmark vs. category leaders.",
+    "backgroundImageUrl": "https://www.datocms-assets.com/147255/1738313305-agencyanalytics-client-reporting-dashboard-screenshot-1.webp",
+    "cta": "View",
+    "path": "/client-reports-kpi-april",
+    "tag": "Performance Overview",
+    "theme": "Performance Index",
+    "datePublished": "04/04/2025",
+    "dateUpdated": "2025-04-07"
+  }
+]
