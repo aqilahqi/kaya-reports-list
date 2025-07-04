@@ -2,7 +2,7 @@
 
 Welcome! This is my submission for the **Kaya Frontend Engineer Assessment**.
 
-This app loads a list of reports. Click on any report to view its full details! It’s built with Vue 3, Quasar, and Pinia.
+This app loads a list of reports. Click on any report to view its full details! It’s built with Vue 3, Quasar Framework, and Pinia.
 
 🌐 **Live Demo:** [Netlify](https://kaya-report-list.netlify.app/)
 
@@ -40,24 +40,3 @@ This app loads a list of reports. Click on any report to view its full details! 
    ```sh
    npm run lint
    ```
-
----
-
-## 📁 Project Structure
-
-```
-.
-├── public/           # Static assets
-├── src/              # Source files
-│   ├── assets/       # Images and fonts
-│   ├── components/   # Vue components
-│   ├── layouts/      # Layout components
-│   ├── pages/        # Page components (list & full report)
-│   ├── router/       # Vue Router setup
-│   ├── stores/       # Pinia stores
-│   └── App.vue       # Root component
-├── package.json      # Project metadata and scripts
-└── ...
-```
-
----
