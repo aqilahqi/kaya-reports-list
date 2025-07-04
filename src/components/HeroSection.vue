@@ -1,6 +1,12 @@
 <template>
   <q-card class="my-card" flat square>
-    <q-img error-src="~assets/image-placeholder.png" :fit="!errorImage ? 'cover' : 'contain'" height="360px" :src="props.report.backgroundImageUrl" @error="() => errorImage = true"/>
+    <q-img
+      error-src="~assets/image-placeholder.png"
+      :fit="!errorImage ? 'cover' : 'contain'"
+      height="360px"
+      :src="props.report.backgroundImageUrl"
+      @error="() => (errorImage = true)"
+    />
 
     <q-card-section class="">
       <div class="row justify-between items center q-mb-md">
@@ -13,17 +19,14 @@
       <p v-if="props.report.theme" class="q-mb-sm">Theme: {{ props.report.theme }}</p>
       <p v-if="props.report.path" class="q-mb-sm">Path: {{ props.report.path }}</p>
       <p v-if="props.report.cta">CTA: {{ props.report.cta }}</p>
-
     </q-card-section>
 
     <q-separator />
 
     <q-card-section class="row justify-between items-center">
-      <p class="text-grey text-caption">
-        Published on {{  props.report.datePublished }}
-      </p>
+      <p class="text-grey text-caption">Published on {{ props.report.datePublished }}</p>
       <p v-if="props.report.dateUpdated" class="text-grey text-caption">
-        Last updated {{  props.report.dateUpdated }}
+        Last updated {{ props.report.dateUpdated }}
       </p>
     </q-card-section>
 
