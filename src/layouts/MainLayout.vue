@@ -2,12 +2,8 @@
   <q-layout view="lHh Lpr lFf">
     <q-header elevated>
       <q-toolbar>
-
-        <q-toolbar-title>
-          Kaya - Software Engineer - Front End - Challenge
-        </q-toolbar-title>
-
-
+        <q-btn v-if="$route.params.id" color="white" flat icon="arrow_back" round to="/" />
+        <q-toolbar-title> Reports </q-toolbar-title>
       </q-toolbar>
     </q-header>
 
@@ -17,7 +13,4 @@
   </q-layout>
 </template>
 
-<script setup lang="ts">
-
-
-</script>
+<script setup lang="ts"></script>
