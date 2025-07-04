@@ -61,11 +61,3 @@ This app loads a list of reports. Click on any report to view its full details! 
 ```
 
 ---
-
-## 💡 Notes
-
-- Browse a list of reports and click to see the full story!
-- Like your favorite songs—they’ll be saved in your favorites list.
-- Built with Quasar for a modern, responsive look and feel.
-
----
